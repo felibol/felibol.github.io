@@ -1,10 +1,6 @@
 # Fürkan Elibol
-**Date of Birth:** 24th November 1985<br>
-**Permanent Address:** Eichenallee 6, 24784 Westerrönfeld, Germany<br>
-**GSM#:** +49 (176) 80 57 22 42<br>
 **Linkedin:** https://www.linkedin.com/in/felibol/<br>
 **Github:** https://github.com/felibol<br>
-**Email:** elibolfurkan@gmail.com
 
 ## Objective
 As a well-qualified and experienced software developer, I am seeking a position in the field of computer vision and/or image processing.
